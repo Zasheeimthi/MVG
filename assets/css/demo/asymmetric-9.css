@@ -82,6 +82,10 @@ input[type="submit"],
 	 img.logo-default {
         max-width: 200px !important;
     }
+	.mobile_header{
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
 }
 
 @media (max-width: 767px) {

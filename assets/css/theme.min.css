@@ -409,6 +409,7 @@ section {
 }
 
 @media (min-width:576px) {
+  
     .container {
         max-width: var(--lqd-container-width-xs, 540px)
     }

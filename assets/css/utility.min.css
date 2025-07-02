@@ -11257,6 +11257,20 @@
 }
 
 @media (max-width:575px) {
+    .mobile_nospace{
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        margin-top: 0px !important;
+    }
+
+    .module-content{
+        padding-left: 0px !important;
+    }
+
+    #site-footer{
+        padding: 20px !important;
+    }
+
     .xs\:w-full {
         width: 100%
     }

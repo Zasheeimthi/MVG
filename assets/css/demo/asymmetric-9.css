@@ -78,18 +78,7 @@ input[type="submit"],
 	}
 }
 
-@media (max-width: 575px) {
-	 img.logo-default {
-        max-width: 200px !important;
-    }
-	.mobile_header{
-		padding-left: 15px !important;
-		padding-right: 15px !important;
-	}
-}
-
 @media (max-width: 767px) {
-	 
 	.lity-modal .container {
 		padding: 30px 15px;
 	}

@@ -8022,6 +8022,10 @@
     background-color: #fff
 }
 
+.bg-dark_black{
+    background-color: #111a1c;
+}
+
 .bg-dark {
     background-color: var(--lqd-color-dark)
 }
@@ -8618,6 +8622,12 @@
     color: var(--lqd-color-gray-500)
 }
 
+.text-gray-01 {
+    color: var(--lqd-color-gray-light)
+   
+}
+
+
 .text-gray-600 {
     color: var(--lqd-color-gray-600)
 }
@@ -8703,8 +8713,37 @@
 }
 
 .text-black {
-    color: #000
+  color: #000;
+  text-align: justify;
+  text-justify: inter-word; /* or inter-character */
+  hyphens: auto;
+  word-spacing: -0.05em;
 }
+
+.text-white {
+    color: #fff;
+    text-align: -webkit-auto;
+    text-justify: inter-word; /* or inter-character */
+    hyphens: auto;
+    word-spacing: -0.05em;
+  }
+
+  .card-height{
+    min-height: 350px;
+  }
+
+.ads{
+    width: 100%;
+    text-align: center;
+
+}
+.ads p{
+   
+    text-align: justify;
+    hyphens: auto;
+
+}
+
 
 .text-white {
     color: #fff

@@ -7,13 +7,15 @@
 	--lqd-color-link: #5b7bfb;
 	--lqd-color-link-hover: #181b31;
 	--lqd-color-dark: #292929;
+	--lqd-color-black: #242424;
 	--lqd-color-blue-900: #0a1e26;
 	--lqd-color-gray-100: #f2f2f2;
 	--lqd-color-gray-200: #e6e6e6;
 	--lqd-color-gray-300: #b7b9c4;
 	--lqd-color-gray-400: #7a7a7a;
 	--lqd-color-gray-500: #666666;
-	--lqd-color-gray-600: #3a3a3a;
+	--lqd-color-gray-light: #363737;
+	--lqd-color-gray-600: #999999;
 	--lqd-color-gray-700: #202020;
 	--lqd-color-gray-800: #151515;
 	--lqd-color-gray-900: #191919;

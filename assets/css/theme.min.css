@@ -409,7 +409,6 @@ section {
 }
 
 @media (min-width:576px) {
-  
     .container {
         max-width: var(--lqd-container-width-xs, 540px)
     }
@@ -14391,7 +14390,16 @@ style+.ld-module-sd>.ld-module-dropdown:last-child {
 }
 
 .iconbox .contents>p>span {
-    display: inline-block
+    display: inline-block;
+    text-align: -webkit-auto;
+    text-justify: inter-word; /* or inter-character */
+
+  hyphens: auto;
+  word-spacing: -0.05em;
+}
+
+.reverse-section{
+    flex-direction: row-reverse;
 }
 
 .iconbox .contents>mark {
@@ -28443,3 +28451,4 @@ nav.post-nav .nav-next .nav-subtitle svg {
     justify-content: center;
     font: normal 1em/1 lqd-essentials
 }
+

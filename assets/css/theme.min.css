@@ -13685,6 +13685,12 @@ style+.ld-module-sd>.ld-module-dropdown:last-child {
     background-color: #007AFF;
 }
 
+/* .ld-flipbox-face.retail {
+    background-size: cover;
+    background-position: center;
+    background-color: #34C759;
+} */
+
 .ld-flipbox-front .ld-flipbox-face {
     display: grid;
     grid-auto-columns: 1fr

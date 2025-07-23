@@ -13682,7 +13682,7 @@ style+.ld-module-sd>.ld-module-dropdown:last-child {
 .ld-flipbox-face {
     background-size: cover;
     background-position: center;
-    background-color: var(--lqd-color-primary)
+    background-color: #007AFF;
 }
 
 .ld-flipbox-front .ld-flipbox-face {

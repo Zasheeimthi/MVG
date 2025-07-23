@@ -8726,6 +8726,7 @@
     text-justify: inter-word; /* or inter-character */
     hyphens: auto;
     word-spacing: -0.05em;
+    line-height: 28px;
   }
 
   .card-height{
@@ -11491,4 +11492,8 @@
     .xs\:mx-0 {
         margin-left: 0
     }
+}
+
+.card-height{
+    min-height: 500px;
 }

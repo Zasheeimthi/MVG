@@ -12148,7 +12148,7 @@ style+.ld-module-sd>.ld-module-dropdown:last-child {
 }
 
 .lqd-sticky-menu .lqd-scrl-indc {
-    height: 3px;
+    /* height: 3px; */
     border-radius: 2px
 }
 

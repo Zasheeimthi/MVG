@@ -8040,8 +8040,10 @@ style+.ld-module-sd>.ld-module-dropdown:last-child {
 }
 
 .accordion-active-has-fill .accordion-item.active .accordion-title a {
-    background-color: var(--lqd-color-primary);
-    color: #fff
+    /* background-color: var(--lqd-color-primary);
+    color: #fff; */
+    background: #317296 !important;
+    color: #fff !important;
 }
 
 .accordion-active-has-shadow .accordion-title a {
@@ -28458,3 +28460,6 @@ nav.post-nav .nav-next .nav-subtitle svg {
     font: normal 1em/1 lqd-essentials
 }
 
+.bg-accent{
+    background-color: #F7F8FA !important;
+}
